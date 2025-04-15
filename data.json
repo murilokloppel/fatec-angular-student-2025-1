@@ -14,7 +14,16 @@
       "id": 3,
       "name": "Mario Antunes",
       "course": "Matemática"
+    },
+    {
+      "id": 4,
+      "name": "Thalles",
+      "course": "Santana"
+    },
+    {
+      "id": 5,
+      "name": "Thalles Santana",
+      "course": "Gestão Projetos"
     }
   ]
- 
 }
